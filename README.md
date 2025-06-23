@@ -1,0 +1,1 @@
+# oriient-prod-locationreceiver-eastus2.az.cloud.att.com-
